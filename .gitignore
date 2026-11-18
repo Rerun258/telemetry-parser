@@ -1,0 +1,6 @@
+.vs/
+x64/
+telemetry-parser/x64/
+[Dd]ebug/
+[Rr]elease/
+*.user
