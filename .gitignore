@@ -4,3 +4,4 @@ telemetry-parser/x64/
 [Dd]ebug/
 [Rr]elease/
 *.user
+packages/
